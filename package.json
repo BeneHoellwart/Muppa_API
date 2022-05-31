@@ -1,0 +1,18 @@
+{
+  "name": "neuer-ordner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "inder.js",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "node": "^17.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
